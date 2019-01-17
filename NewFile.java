@@ -23,4 +23,5 @@ public void TaoFile(String path,String name) {
 
 }
 /*https://stackoverflow.com/questions/1466240/how-to-set-an-image-as-a-background-for-frame-in-swing-gui-of-java
-https://stackoverflow.com/questions/1466240/how-to-set-an-image-as-a-background-for-frame-in-swing-gui-of-java*/
+https://stackoverflow.com/questions/1466240/how-to-set-an-image-as-a-background-for-frame-in-swing-gui-of-java
+https://www.javatpoint.com/q/4811/how-to-set-bakground-image-in-jframe?*/
